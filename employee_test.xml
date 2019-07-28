@@ -1,0 +1,8 @@
+<?xml version="1.1"?>
+<employee>
+   <employeeId>10</employeeId>
+   <firstName>AAA</firstName>
+   <lastName>BBB</lastName>
+   <joiningDate>2000-01-20</joiningDate>
+   <department>FINANCE</department>
+</employee>
